@@ -17,7 +17,7 @@ A aplicação consiste em ter uma interface bonita para a navegação do usuári
 
 # Autor
 
-(Créditos ao canal "BedimCode" no YouTube de onde foi retirado o tutorial)
+(Todos os direitos ao canal "BedimCode" no YouTube de onde foi retirado o tutorial)
 
 Pedro Henrique Silva Bonfim
 
